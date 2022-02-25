@@ -1,6 +1,0 @@
-Hello there
-Here is my text file
-Hope you can see it
-I am in the INSERT mode
-I will go to the command mode to save changes to this file and close the INSERT mode.
-Last line.
